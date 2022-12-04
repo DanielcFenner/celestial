@@ -1,0 +1,74 @@
+const blueDark = {
+  blue1: '#0f1720',
+  blue2: '#0f1b2d',
+  blue3: '#10243e',
+  blue4: '#102a4c',
+  blue5: '#0f3058',
+  blue6: '#0d3868',
+  blue7: '#0a4481',
+  blue8: '#0954a5',
+  blue9: '#0091ff',
+  blue10: '#369eff',
+  blue11: '#52a9ff',
+  blue12: '#eaf6ff',
+}
+
+const plumDark = {
+  plum1: '#1d131d',
+  plum2: '#251425',
+  plum3: '#341a34',
+  plum4: '#3e1d40',
+  plum5: '#48214b',
+  plum6: '#542658',
+  plum7: '#692d6f',
+  plum8: '#883894',
+  plum9: '#ab4aba',
+  plum10: '#bd54c6',
+  plum11: '#d864d8',
+  plum12: '#fbecfc',
+}
+
+const violetDark = {
+  violet1: '#17151f',
+  violet2: '#1c172b',
+  violet3: '#251e40',
+  violet4: '#2c2250',
+  violet5: '#32275f',
+  violet6: '#392c72',
+  violet7: '#443592',
+  violet8: '#5842c3',
+  violet9: '#6e56cf',
+  violet10: '#7c66dc',
+  violet11: '#9e8cfc',
+  violet12: '#f1eefe',
+}
+
+const slateDark = {
+  slate1: '#151718',
+  slate2: '#1a1d1e',
+  slate3: '#202425',
+  slate4: '#26292b',
+  slate5: '#2b2f31',
+  slate6: '#313538',
+  slate7: '#3a3f42',
+  slate8: '#4c5155',
+  slate9: '#697177',
+  slate10: '#787f85',
+  slate11: '#9ba1a6',
+  slate12: '#ecedee',
+}
+
+const crimsonDark = {
+  crimson1: '#1d1418',
+  crimson2: '#27141c',
+  crimson3: '#3c1827',
+  crimson4: '#481a2d',
+  crimson5: '#541b33',
+  crimson6: '#641d3b',
+  crimson7: '#801d45',
+  crimson8: '#ae1955',
+  crimson9: '#e93d82',
+  crimson10: '#f04f88',
+  crimson11: '#f76190',
+  crimson12: '#feecf4',
+}
